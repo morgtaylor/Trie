@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B5A279092BAE2C9A004C75E6 /* trie.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = trie.js; sourceTree = "<group>"; };
+		B5A2790A2BAE3280004C75E6 /* trie.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = trie.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B5C18A122BAD05760001FA19 = {
+			isa = PBXGroup;
+			children = (
+				B5A2790A2BAE3280004C75E6 /* trie.py */,
+				B5A279092BAE2C9A004C75E6 /* trie.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B5C18A132BAD05760001FA19 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1530;
+			};
+			buildConfigurationList = B5C18A162BAD05760001FA19 /* Build configuration list for PBXProject "Trie" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B5C18A122BAD05760001FA19;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B5C18A172BAD05760001FA19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B5C18A182BAD05760001FA19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B5C18A162BAD05760001FA19 /* Build configuration list for PBXProject "Trie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5C18A172BAD05760001FA19 /* Debug */,
+				B5C18A182BAD05760001FA19 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B5C18A132BAD05760001FA19 /* Project object */;
+}
